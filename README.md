@@ -1,1 +1,4 @@
-# osfest-mumbai
+# OS Fest - Mumbai
+
+# Introductory Detail
+- OS Fest is a celebration of Open-Source Resources and technologies. It is celebrated dedicated specially to teach the fundamentals to the newbies in all the fields of Open-Source like Web, Machine Learning, Documentation,Communities etc... irrespective of whether you are a Programmer, a Developer, a COntributor, a Designer or a Content Writer; who are setting their way in this competitive world and contributing in Open-Source Community. This will help the world remain Open for all generations, and the generations to come. And this time, OS-Fest has got a new home; Mumbai! So, let us all meet under one roof, enjoy this festival, learn a lot new things and network with some amazing people.
