@@ -5,8 +5,6 @@
 
 # Code Of Conduct
 
-Code of Conduct:
-
 ### By participating in OS Fest, you agree to abide by the following code of conduct.
 
 ### Our event is dedicated to providing a harassment-free experience for everyone. Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, nationality, or religion, sexual images in public spaces, deliberate intimidation, stalking, following, photography or audio/video recording against reasonable consent, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
